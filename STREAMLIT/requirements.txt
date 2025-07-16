@@ -1,0 +1,10 @@
+captum 
+transformers-interpret 
+PyPDF2 
+sentence-transformers 
+nltk 
+coreferee 
+boto3 
+sacremoses 
+streamlit 
+pyngrok
